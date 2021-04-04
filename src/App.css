@@ -1,0 +1,10 @@
+.app_body {
+    display: flex;
+    background-color: #E8DAEF;
+    height: 100%;
+}
+
+.feed {
+    display: flex;
+    justify-content: center;
+}

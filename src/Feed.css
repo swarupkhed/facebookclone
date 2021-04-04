@@ -1,0 +1,14 @@
+.feed {
+    padding: 13px 110px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.posts {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
