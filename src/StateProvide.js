@@ -1,5 +1,4 @@
 //set up data layer
-// we need this to track The basket
 //so it's like creating global variables that can be passed around in a React app.
 // Instead of passing props from grandparent to parent to child and so no.
 

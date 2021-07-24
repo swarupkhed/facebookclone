@@ -17,7 +17,7 @@ function Post({profilePic,Image,username,timestamps,message}) {
                </div>
             </div>
             <div className="post_bottom">
-                   <h4> {message}</h4>
+                   <h4>{message}</h4>
             </div>
             <div className="post_image">
                 <img src={Image} alt="" />

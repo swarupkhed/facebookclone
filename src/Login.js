@@ -7,7 +7,6 @@ import {auth, provider} from "./firebase";
 import { useStateValue } from './StateProvide';
 import { actionTypes } from './reducer';
 
-
 function Login() {
     const [state,dispatch]=useStateValue();
     const signIn=(e)=>{

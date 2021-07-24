@@ -12,7 +12,6 @@ function App() {
        {!user?<Login />
          :
          <>
-
             {/* header component  */}
             <Header />
             {/* app body  */}

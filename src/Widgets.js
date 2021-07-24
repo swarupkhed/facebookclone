@@ -8,7 +8,6 @@ function Widgets() {
          height="230px"
           src="https://www.youtube.com/embed/1PjfIIFEf_M"
            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-           
            ></iframe>
         <iframe
                src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6777831053542338560"

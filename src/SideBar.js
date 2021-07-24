@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import "./SideBar.css";
 import SidebarRow from "./SidebarRow";
 import LocalHospitalIcon from '@material-ui/icons/LocalHospital';
